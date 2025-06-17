@@ -1,0 +1,6 @@
+%implements s76_b0_i06wi_ModuleConstants "C"
+
+%function ModuleConstants(block) Output
+
+#define PV_microgrid_period (0.0001)
+%endfunction
