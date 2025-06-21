@@ -1,0 +1,6 @@
+%implements s77_b0_e813i_ModuleConstants "C"
+
+%function ModuleConstants(block) Output
+
+#define PVFarmDistributionSystem_period (0.0001)
+%endfunction

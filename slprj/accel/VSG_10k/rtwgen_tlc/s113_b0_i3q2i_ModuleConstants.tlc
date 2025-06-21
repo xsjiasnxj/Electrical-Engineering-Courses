@@ -1,4 +1,4 @@
-%implements s113_b0_qn6wi_ModuleConstants "C"
+%implements s113_b0_i3q2i_ModuleConstants "C"
 
 %function ModuleConstants(block) Output
 
